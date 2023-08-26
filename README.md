@@ -91,6 +91,20 @@ The Student Management System is a Java-based console application designed to ma
 2. Compile and run the `StudentManagement.java` file using your preferred Java compiler or IDE.
 3. Follow the on-screen instructions to manage student records.
 
+Task: 4
+----Address Book System----
+
+Efficiently manage your contacts with the Java Address Book System. This program provides a user-friendly interface for adding, updating, and searching contacts.
+
+Features
+Contact Management: Add, update, and search for contacts effortlessly.
+Alphabetical Sorting: Contacts are automatically sorted for easy navigation.
+Intuitive Menu: User-friendly menu-driven interface for quick interaction.
+Dynamic Updates: Modify contact details on-the-fly.
+Simple Deletion: Easily remove unwanted contacts.
+Search Flexibility: Find contacts using name, phone number, or email.
+
+
 
 **Contributions:**
 Contributions to this project are welcome. If you have suggestions, improvements, or bug fixes, feel free to submit a pull request.
@@ -99,6 +113,4 @@ Contributions to this project are welcome. If you have suggestions, improvements
 This project is under the [MIT License](LICENSE). You are free to use, modify, and distribute it according to the terms of the license.
 
 **Acknowledgments:**
-This project was created to demonstrate basic Java programming concepts and provide a simple simulation of an ATM machine.
-
-Enjoy using the Student Management System and exploring OOP principles in action!
+This project was created to demonstrate basic Java programming OOP concepts
